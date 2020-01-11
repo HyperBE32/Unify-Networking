@@ -1,18 +1,6 @@
-﻿
-Version 2.54:
-► Added Disable Character Stumble patch.
-► Fixed Mod Creator not adapting accent colour.
-
-Version 2.53:
-► Added bound attack recovery restoration patch.
-
-Version 2.52:
-► Added homing spam restoration patch.
-
-Version 2.51:
-► Added homing flip restoration patch.
-
-Version 2.5:
-► Redesigned the Mod Creator window.
-► Fixed the Mod Creator appending a new line to the description for every edit.
-► Added support for custom filesystems.
+﻿► Redesigned the Patches tab.
+► Added Controllable Spinkick patch.
+► Added Enable Chaos Smash patch.
+► Added Mach Speed Air Control patch.
+► Added Snowboard Air Control patch.
+► Added Amy's Hammer Range tweak.
