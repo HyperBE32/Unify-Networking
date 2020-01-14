@@ -1,6 +1,6 @@
-﻿► Redesigned the Patches tab.
-► Added Controllable Spinkick patch.
-► Added Enable Chaos Smash patch.
-► Added Mach Speed Air Control patch.
-► Added Snowboard Air Control patch.
-► Added Amy's Hammer Range tweak.
+﻿► Redesigned the Mod Creator and the Patches tab, once again.
+► Fixed unhandled exception when renaming a mod whilst being in it's directory.
+► Implemented proper custom filesystem support (fully automated).
+► Updated mod INI format - all mods are compatible with the new format.
+► XEX patches are now removed from the Patches list when PlayStation 3 is selected.
+► Added default filesystem directory auto-generation.
