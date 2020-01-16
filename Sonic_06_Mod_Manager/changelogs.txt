@@ -1,6 +1,4 @@
-﻿► Redesigned the Mod Creator and the Patches tab, once again.
-► Fixed unhandled exception when renaming a mod whilst being in it's directory.
-► Implemented proper custom filesystem support (fully automated).
-► Updated mod INI format - all mods are compatible with the new format.
-► XEX patches are now removed from the Patches list when PlayStation 3 is selected.
-► Added default filesystem directory auto-generation.
+﻿► Added Bound Collision Anim Fix patch.
+► Optimised Omega Blur Fix patch.
+
+This may be the last release for awhile as we migrate to a new, better framework for developing patches. Please be patient - we will announce further changes when ready.
