@@ -1,5 +1,11 @@
-﻿► Added an option to disable mod uninstall on launch.
+﻿► Now checks if Java is installed before applying patches and/or tweaks that require it.
+
+Sonic '06 Mod Manager - Version 3.01
+
+► Added an option to disable mod uninstall on launch.
 ► Added checks to Rename and RenameByExtension patch functions.
+► Fixed accent colour not applying to selected sections on launch.
+► Fixed colour inheriting from Windows not allowing new colours until two attempts.
 
 Sonic '06 Mod Manager - Version 3.0
 
