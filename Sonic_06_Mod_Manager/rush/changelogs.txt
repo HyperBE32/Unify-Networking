@@ -1,0 +1,4 @@
+﻿► Sonic '06 Mod Manager has been completely rewritten.
+► Entirely new user interface.
+► Easier to use.
+► It's still a Mod Manager.

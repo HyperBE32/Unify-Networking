@@ -1,4 +1,6 @@
-﻿► Added Bound Collision Anim Fix patch.
-► Optimised Omega Blur Fix patch.
+﻿► Sonic '06 Mod Manager has been completely rewritten.
+► Entirely new user interface.
+► Easier to use.
+► It's still a Mod Manager.
 
-This may be the last release for awhile as we migrate to a new, better framework for developing patches. Please be patient - we will announce further changes when ready.
+Please use this version to update to Version 3.0!
