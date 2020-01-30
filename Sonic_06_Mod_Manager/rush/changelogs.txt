@@ -1,4 +1,9 @@
-﻿► Sonic '06 Mod Manager has been completely rewritten.
+﻿► Added an option to disable mod uninstall on launch.
+► Added checks to Rename and RenameByExtension patch functions.
+
+Sonic '06 Mod Manager - Version 3.0
+
+► Sonic '06 Mod Manager has been completely rewritten.
 ► Entirely new user interface.
 ► Easier to use.
 ► It's still a Mod Manager.
