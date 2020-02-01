@@ -1,4 +1,5 @@
-﻿► Fixed mod uninstallation clashing with patch uninstallation.
+﻿► Added snapshots for developer debugging.
+► Fixed mod uninstallation clashing with patch uninstallation.
 ► Fixed XEX not being backed up when using a custom Field of View.
 ► Improved the ignore list for patches.
 
