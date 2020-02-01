@@ -1,4 +1,10 @@
-﻿► Now checks if Java is installed before applying patches and/or tweaks that require it.
+﻿► Fixed mod uninstallation clashing with patch uninstallation.
+► Fixed XEX not being backed up when using a custom Field of View.
+► Improved the ignore list for patches.
+
+Sonic '06 Mod Manager - Version 3.02
+
+► Now checks if Java is installed before applying patches and/or tweaks that require it.
 
 Sonic '06 Mod Manager - Version 3.01
 
