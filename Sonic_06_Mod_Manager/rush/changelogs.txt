@@ -1,4 +1,12 @@
-﻿► Added snapshots for developer debugging.
+﻿► Fixed crashes for PlayStation 3 compatible tweaks.
+► Disabled UI elements that are incompatible with the PlayStation 3 version.
+► Fixed the Patch Editor erasing functions upon editing.
+► Fixed the patch updater crashing if there's an empty line in the repository information.
+► Added system specifications to snapshots.
+
+Sonic '06 Mod Manager - Version 3.03
+
+► Added snapshots for developer debugging.
 ► Fixed mod uninstallation clashing with patch uninstallation.
 ► Fixed XEX not being backed up when using a custom Field of View.
 ► Improved the ignore list for patches.
