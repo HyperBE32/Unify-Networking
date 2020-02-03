@@ -1,4 +1,10 @@
-﻿► Fixed crashes for PlayStation 3 compatible tweaks.
+﻿► Added new functions to the patch engine.
+► Added support for PlayStation 3 executable patches.
+► Patches now support any executable.
+
+Sonic '06 Mod Manager - Version 3.04
+
+► Fixed crashes for PlayStation 3 compatible tweaks.
 ► Disabled UI elements that are incompatible with the PlayStation 3 version.
 ► Fixed the Patch Editor erasing functions upon editing.
 ► Fixed the patch updater crashing if there's an empty line in the repository information.
