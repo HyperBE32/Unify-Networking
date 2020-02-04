@@ -1,4 +1,9 @@
-﻿► Added new functions to the patch engine.
+﻿► Fixed camera tweaks being reset on launch.
+► Moved the install and play buttons outside of the Mods section.
+
+Sonic '06 Mod Manager - Version 3.05
+
+► Added new functions to the patch engine.
 ► Added support for PlayStation 3 executable patches.
 ► Patches now support any executable.
 
