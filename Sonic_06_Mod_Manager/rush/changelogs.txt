@@ -1,4 +1,10 @@
-﻿► Added support for custom Xenia builds.
+﻿► Sonic '06 Mod Manager now checks if the Game Executable exists and isn't null before uninstalling content.
+► Added support for command line arguments when launching emulators.
+► Fixed crash if the Game Executable is empty.
+
+Sonic '06 Mod Manager - Version 3.08
+
+► Added support for custom Xenia builds.
 
 Sonic '06 Mod Manager - Version 3.07
 
