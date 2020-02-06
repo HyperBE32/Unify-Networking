@@ -1,4 +1,10 @@
-﻿► Fixed camera tweaks being reset on launch.
+﻿► Fixed 1-Click Installer not extracting 7Z/RAR files.
+► Added language modifier to the Emulator section.
+► Added descriptions to all options in the Emulator section.
+
+Sonic '06 Mod Manager - Version 3.06
+
+► Fixed camera tweaks being reset on launch.
 ► Moved the install and play buttons outside of the Mods section.
 
 Sonic '06 Mod Manager - Version 3.05
