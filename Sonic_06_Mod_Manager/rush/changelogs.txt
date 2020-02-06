@@ -1,4 +1,8 @@
-﻿► Fixed 1-Click Installer not extracting 7Z/RAR files.
+﻿► Added support for custom Xenia builds.
+
+Sonic '06 Mod Manager - Version 3.07
+
+► Fixed 1-Click Installer not extracting 7Z/RAR files.
 ► Added language modifier to the Emulator section.
 ► Added descriptions to all options in the Emulator section.
 ► Fixed ARC repacker not cleaning up temporary data.
