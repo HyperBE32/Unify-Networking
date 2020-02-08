@@ -1,4 +1,9 @@
-﻿► Rsdx cache is now disabled when using the PlayStation 3 version of the game.
+﻿► Fixed 1-Click Install failing to establish a connection to GameBanana.
+► Removed Sonic '06 Mod Manager leftovers.
+
+Unleashed Mod Manager - Version 1.02
+
+► Rsdx cache is now disabled when using the PlayStation 3 version of the game.
 ► Fixed backup files not being restored if the original file was unmodified.
 
 Unleashed Mod Manager - Version 1.01
