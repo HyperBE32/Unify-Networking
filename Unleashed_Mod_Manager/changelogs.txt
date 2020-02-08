@@ -1,4 +1,9 @@
-﻿► Unleashed Mod Manager now installs the GameBanana registry key per user on the computer.
+﻿► Rsdx cache is now disabled when using the PlayStation 3 version of the game.
+► Fixed backup files not being restored if the original file was unmodified.
+
+Unleashed Mod Manager - Version 1.01
+
+► Unleashed Mod Manager now installs the GameBanana registry key per user on the computer.
 ► Added archive list (ARL) magic number verification.
 
 Unleashed Mod Manager - Version 1.0
