@@ -1,4 +1,5 @@
 ﻿► Unleashed Mod Manager now installs the GameBanana registry key per user on the computer.
+► Added archive list (ARL) magic number verification.
 
 Unleashed Mod Manager - Version 1.0
 
