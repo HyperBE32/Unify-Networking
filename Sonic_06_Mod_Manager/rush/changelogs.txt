@@ -1,4 +1,9 @@
-﻿► Sonic '06 Mod Manager now checks if the Game Executable exists and isn't null before uninstalling content.
+﻿► Sonic '06 Mod Manager now installs the GameBanana registry key per user on the computer.
+► Fixed Mod/Patch Editor not allowing content renaming.
+
+Sonic '06 Mod Manager - Version 3.09
+
+► Sonic '06 Mod Manager now checks if the Game Executable exists and isn't null before uninstalling content.
 ► Added support for command line arguments when launching emulators.
 ► Fixed crash if the Game Executable is empty.
 
