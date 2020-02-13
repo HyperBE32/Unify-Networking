@@ -1,4 +1,10 @@
-﻿► Sonic '06 Mod Manager now installs the GameBanana registry key per user on the computer.
+﻿► Re-arranged mod configuration files to add the description above the Filesystem section.
+► Fixed paths being called as 'illegitimate' due to an incorrect cast.
+► Fixed Field of View patch being forced on with the PlayStation 3 version.
+
+Sonic '06 Mod Manager - Version 3.1
+
+► Sonic '06 Mod Manager now installs the GameBanana registry key per user on the computer.
 ► Fixed Mod/Patch Editor not allowing content renaming.
 
 Sonic '06 Mod Manager - Version 3.09

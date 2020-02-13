@@ -1,4 +1,10 @@
-﻿► Fixed 1-Click Install failing to establish a connection to GameBanana.
+﻿► Removed support for community-made patches, due to inconsistencies with Unleashed updates.
+► Added archive merging for mods that overwrite single files in archives.
+► Improved mod uninstallation.
+
+Unleashed Mod Manager - Version 1.03
+
+► Fixed 1-Click Install failing to establish a connection to GameBanana.
 ► Removed Sonic '06 Mod Manager leftovers.
 
 Unleashed Mod Manager - Version 1.02
