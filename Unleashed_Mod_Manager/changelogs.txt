@@ -1,4 +1,8 @@
-﻿► Removed support for community-made patches, due to inconsistencies with Unleashed updates.
+﻿► Fixed mod installation priority not being restored on launch.
+
+Unleashed Mod Manager - Version 1.04
+
+► Removed support for community-made patches, due to inconsistencies with Unleashed updates.
 ► Added archive merging for mods that overwrite single files in archives.
 ► Improved mod uninstallation.
 

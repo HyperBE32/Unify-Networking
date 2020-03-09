@@ -1,4 +1,8 @@
-﻿► Re-arranged mod configuration files to add the description above the Filesystem section.
+﻿► Fixed mod installation priority not being restored on launch.
+
+Sonic '06 Mod Manager - Version 3.11
+
+► Re-arranged mod configuration files to add the description above the Filesystem section.
 ► Fixed paths being called as 'illegitimate' due to an incorrect cast.
 ► Fixed Field of View patch being forced on with the PlayStation 3 version.
 
