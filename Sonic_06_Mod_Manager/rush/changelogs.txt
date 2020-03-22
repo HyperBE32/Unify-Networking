@@ -1,4 +1,14 @@
-﻿► Fixed mod installation priority not being restored on launch.
+﻿► Fixed ParameterAdd function calling incorrect variable when recursive.
+► Added Begin with Rings to the Tweaks section.
+
+Sonic '06 Mod Manager - Version 3.13
+
+► Updated the Delete function to allow folder deletion (only inside archives).
+► Added WriteNullBytes function.
+
+Sonic '06 Mod Manager - Version 3.12
+
+► Fixed mod installation priority not being restored on launch.
 
 Sonic '06 Mod Manager - Version 3.11
 
