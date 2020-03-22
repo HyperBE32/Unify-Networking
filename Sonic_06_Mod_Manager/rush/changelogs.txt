@@ -1,4 +1,8 @@
-﻿► Fixed ParameterAdd function calling incorrect variable when recursive.
+﻿Testing connection to GitHub...
+
+Sonic '06 Mod Manager - Version 3.14
+
+► Fixed ParameterAdd function calling incorrect variable when recursive.
 ► Added Begin with Rings to the Tweaks section.
 
 Sonic '06 Mod Manager - Version 3.13
