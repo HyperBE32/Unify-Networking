@@ -1,4 +1,8 @@
-﻿► Fixed mod installation priority not being restored on launch.
+﻿► Fixed software updater not switching to the backup server.
+
+Unleashed Mod Manager - Version 1.05
+
+► Fixed mod installation priority not being restored on launch.
 
 Unleashed Mod Manager - Version 1.04
 

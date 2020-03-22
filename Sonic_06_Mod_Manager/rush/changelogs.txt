@@ -1,4 +1,4 @@
-﻿Testing connection to GitHub...
+﻿► Fixed software updater not switching to the backup server.
 
 Sonic '06 Mod Manager - Version 3.14
 
