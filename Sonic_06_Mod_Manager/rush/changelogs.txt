@@ -1,4 +1,8 @@
-﻿► Fixed software updater not switching to the backup server.
+﻿► Fixed the ParameterRename and PackageEdit functions calling incorrect variables when recursive.
+
+Sonic '06 Mod Manager - Version 3.15
+
+► Fixed software updater not switching to the backup server.
 
 Sonic '06 Mod Manager - Version 3.14
 
