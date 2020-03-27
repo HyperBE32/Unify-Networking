@@ -1,4 +1,9 @@
-﻿► Fixed the ParameterRename and PackageEdit functions calling incorrect variables when recursive.
+﻿► Fixed the Field of View modifier not doing anything.
+► Improved All Systems mods.
+
+Sonic '06 Mod Manager - Version 3.16
+
+► Fixed the ParameterRename and PackageEdit functions calling incorrect variables when recursive.
 
 Sonic '06 Mod Manager - Version 3.15
 
