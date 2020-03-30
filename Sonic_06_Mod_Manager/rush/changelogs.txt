@@ -1,4 +1,8 @@
-﻿► Fixed the Field of View modifier not doing anything.
+﻿► Field of View now uses a 32-bit float, rather than a single byte.
+
+Sonic '06 Mod Manager - Version 3.17
+
+► Fixed the Field of View modifier not doing anything.
 ► Improved All Systems mods.
 
 Sonic '06 Mod Manager - Version 3.16
