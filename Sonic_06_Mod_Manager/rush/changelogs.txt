@@ -1,4 +1,9 @@
-﻿► Field of View now uses a 32-bit float, rather than a single byte.
+﻿► Fixed globalisation issue with languages that use commas as decimal places.
+► Set Field of View box to increment by 0.1 to account for the float.
+
+Sonic '06 Mod Manager - Version 3.18
+
+► Field of View now uses a 32-bit float, rather than a single byte.
 
 Sonic '06 Mod Manager - Version 3.17
 
