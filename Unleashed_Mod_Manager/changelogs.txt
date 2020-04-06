@@ -1,4 +1,8 @@
-﻿► Fixed software updater not switching to the backup server.
+﻿► Removed Sonic '06 Mod Manager leftover when adding read-only archives.
+
+Unleashed Mod Manager - Version 1.06
+
+► Fixed software updater not switching to the backup server.
 
 Unleashed Mod Manager - Version 1.05
 
