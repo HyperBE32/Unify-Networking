@@ -1,4 +1,8 @@
-﻿► Removed Sonic '06 Mod Manager leftover when adding read-only archives.
+﻿► Fixed *.ar files not being installed.
+
+Unleashed Mod Manager - Version 1.07
+
+► Removed Sonic '06 Mod Manager leftover when adding read-only archives.
 
 Unleashed Mod Manager - Version 1.06
 
