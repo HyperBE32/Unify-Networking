@@ -1,4 +1,9 @@
-﻿► Fixed a crash when cancelling the browser during first time setup.
+﻿► Added more verbose debug messages for mod/patch/tweak installation.
+► Added an option to save the debug log to a file.
+
+Sonic '06 Mod Manager - Version 3.2
+
+► Fixed a crash when cancelling the browser during first time setup.
 ► Fixed reset option clearing application data only, rather than the settings too.
 ► Added a debugging option to allow for loading snapshots.
 ► Added a new WriteTextBytes function to the scripting language.
