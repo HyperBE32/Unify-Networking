@@ -1,4 +1,16 @@
-﻿► Fixed globalisation issue with languages that use commas as decimal places.
+﻿► Fixed a crash when cancelling the browser during first time setup.
+► Fixed reset option clearing application data only, rather than the settings too.
+► Added a debugging option to allow for loading snapshots.
+► Added a new WriteTextBytes function to the scripting language.
+► Removed EncryptExecutable function and automated it after all patches are installed (PlayStation 3 only).
+► Removed debug flag for console logs, so debug mode doesn't need to be enabled for error logging.
+► Patch filenames now use Pascal Case by default.
+► Better error handling for patches and tweaks.
+► Debug logs can now be copied to the clipboard easily.
+
+Sonic '06 Mod Manager - Version 3.19
+
+► Fixed globalisation issue with languages that use commas as decimal places.
 ► Set Field of View box to increment by 0.1 to account for the float.
 
 Sonic '06 Mod Manager - Version 3.18
