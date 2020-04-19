@@ -1,4 +1,13 @@
-﻿► Added more verbose debug messages for mod/patch/tweak installation.
+﻿► Mods can now require patches.
+► Mods can now have 'hybrid patches' for merge edits.
+► Mods can now specify if ARCs in the custom list will be added to a custom filesystem.
+► Added a mod troubleshooter to the debug menu.
+► Fixed PackageEdit not editing events with the same name as the key.
+► Custom filesystems can now be merged with other mods that use the same archive name.
+
+Sonic '06 Mod Manager - Version 3.21
+
+► Added more verbose debug messages for mod/patch/tweak installation.
 ► Added an option to save the debug log to a file.
 
 Sonic '06 Mod Manager - Version 3.2
