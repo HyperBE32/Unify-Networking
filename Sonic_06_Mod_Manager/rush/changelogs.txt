@@ -1,4 +1,8 @@
-﻿► Mods can now require patches.
+﻿► Fixed Patch Creator not using correct formatting for filenames.
+
+Sonic '06 Mod Manager - Version 3.22
+
+► Mods can now require patches.
 ► Mods can now have 'hybrid patches' for merge edits.
 ► Mods can now specify if ARCs in the custom list will be added to a custom filesystem.
 ► Added a mod troubleshooter to the debug menu.
