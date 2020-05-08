@@ -1,4 +1,9 @@
-﻿► Fixed Patch Creator not using correct formatting for filenames.
+﻿► Fixed application hanging for awhile with no network connection.
+► Added mod stacking debugging feature.
+
+Sonic '06 Mod Manager - Version 3.23
+
+► Fixed Patch Creator not using correct formatting for filenames.
 
 Sonic '06 Mod Manager - Version 3.22
 
