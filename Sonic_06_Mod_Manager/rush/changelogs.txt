@@ -1,4 +1,10 @@
-﻿► Fixed application hanging for awhile with no network connection.
+﻿► Added better PKG reading and writing to the patch scripts.
+► Added MST reading and writing to the patch scripts (see the documentation, for more information).
+► Added a context menu to the install button when right-clicking.
+
+Sonic '06 Mod Manager - Version 3.24
+
+► Fixed application hanging for awhile with no network connection.
 ► Added mod stacking debugging feature.
 
 Sonic '06 Mod Manager - Version 3.23
