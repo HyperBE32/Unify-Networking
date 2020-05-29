@@ -1,4 +1,14 @@
-﻿► Added better PKG reading and writing to the patch scripts.
+﻿► Fixed regression caused by the new PKG API.
+► Removed pkgtool from application resources.
+► Available drive space is now checked when unpacking archives.
+► Rewritten the patch script deserialiser.
+► Added PackageErase function to remove PKG entries.
+► Added Search function to filter specific search queries.
+► Updated StringReplace function to parse line breaks.
+
+Sonic '06 Mod Manager - Version 3.25
+
+► Added better PKG reading and writing to the patch scripts.
 ► Added MST reading and writing to the patch scripts (see the documentation, for more information).
 ► Added a context menu to the install button when right-clicking.
 
