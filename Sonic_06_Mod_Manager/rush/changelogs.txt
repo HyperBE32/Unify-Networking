@@ -1,4 +1,8 @@
-﻿► Fixed regression caused by the new PKG API.
+﻿► Fixed regression for the Copy function.
+
+Sonic '06 Mod Manager - Version 3.26
+
+► Fixed regression caused by the new PKG API.
 ► Removed pkgtool from application resources.
 ► Available drive space is now checked when unpacking archives.
 ► Rewritten the patch script deserialiser.
