@@ -1,4 +1,10 @@
-﻿► Fixed regression for the Copy function.
+﻿► Added top and bottom iteration (right-click the up/down buttons).
+► Added priority iteration for patches.
+► Added WriteBytes function.
+
+Sonic '06 Mod Manager - Version 3.27
+
+► Fixed regression for the Copy function.
 
 Sonic '06 Mod Manager - Version 3.26
 
