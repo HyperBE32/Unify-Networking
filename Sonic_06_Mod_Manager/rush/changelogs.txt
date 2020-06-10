@@ -1,4 +1,8 @@
-﻿► Added top and bottom iteration (right-click the up/down buttons).
+﻿► Actually fixed the PKG API regression this time.
+
+Sonic '06 Mod Manager - Version 3.28
+
+► Added top and bottom iteration (right-click the up/down buttons).
 ► Added priority iteration for patches.
 ► Added WriteBytes function.
 
