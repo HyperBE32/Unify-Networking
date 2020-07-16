@@ -1,4 +1,9 @@
-﻿► Actually fixed the PKG API regression this time.
+﻿► Added check to ensure Java is installed.
+► Added catch to Win32Exception when certain prerequisites are missing.
+
+Sonic '06 Mod Manager - Version 3.29
+
+► Actually fixed the PKG API regression this time.
 
 Sonic '06 Mod Manager - Version 3.28
 
