@@ -1,4 +1,9 @@
-﻿► Added check to ensure Java is installed.
+﻿► XEX decryption now forces decompression for more correct output (REQUIRES PATCH UPDATES).
+► Added a small options menu for updating patches.
+
+Sonic '06 Mod Manager - Version 3.3
+
+► Added check to ensure Java is installed.
 ► Added catch to Win32Exception when certain prerequisites are missing.
 
 Sonic '06 Mod Manager - Version 3.29
