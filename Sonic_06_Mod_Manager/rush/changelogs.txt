@@ -1,4 +1,10 @@
-﻿► XEX decryption now forces decompression for more correct output (REQUIRES PATCH UPDATES).
+﻿► Added verification check for when users fail to extract the game's ISO properly.
+► Fixed patches not showing up in the Mod Creator.
+► Changed how patches are updated.
+
+Sonic '06 Mod Manager - Version 3.31
+
+► XEX decryption now forces decompression for more correct output (REQUIRES PATCH UPDATES).
 ► Added a small options menu for updating patches.
 
 Sonic '06 Mod Manager - Version 3.3
