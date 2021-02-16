@@ -1,4 +1,10 @@
-﻿► Added verification check for when users fail to extract the game's ISO properly.
+﻿► Fixed verification check only checking Xbox 360 files.
+► Removed the Unlock Tails' Flight Limit tweak in favour of the new patch.
+► Migrated update servers to the Big Endian 32 repository.
+
+Sonic '06 Mod Manager - Version 3.32
+
+► Added verification check for when users fail to extract the game's ISO properly.
 ► Fixed patches not showing up in the Mod Creator.
 ► Changed how patches are updated.
 
